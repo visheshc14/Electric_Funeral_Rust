@@ -1,2 +1,2 @@
-# Electric_Funeral_Rust
+# Electric Funeral
 A WebServer On Rust
