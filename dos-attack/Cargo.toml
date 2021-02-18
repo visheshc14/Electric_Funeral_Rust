@@ -1,11 +1,11 @@
 [package]
 name = "dos-attacks"
 version = "0.1.0"
-authors = ["Cody Lewis <cody@codymlewis.com>"]
+authors = ["Siddhanth & Vishesh <siddhanth0@outlook.com>"]
 edition = "2018"
 license = "GPL-3.0"
 description = "Rust implementations of DoS attacks."
-repository = "https://github.com/codymlewis/dos-attacks"
+repository = "https://github.com/visheshc14/electric-funeral-rust"
 readme = "README.md"
 
 [dependencies]
