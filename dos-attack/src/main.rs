@@ -8,7 +8,7 @@ mod icmp_flood;
 
 fn main() {
     println!("Sequential-dos-attacks in Rust.");
-    println!("This program comes with ABSOLUTELY NO WARRANTY.");
+    println!("Web Application Distortion");
     println!("You can make a PR for this.");
     println!();
     let args: Vec<String> = env::args().collect();
